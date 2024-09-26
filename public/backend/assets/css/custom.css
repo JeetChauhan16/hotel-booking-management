@@ -1,0 +1,14 @@
+.error-msg
+{
+    color: red;
+}
+
+.dataTables_length
+{
+    margin-bottom: 30px;
+}
+
+.fade-out {
+    transition: opacity 1s ease;
+    opacity: 0;
+}
